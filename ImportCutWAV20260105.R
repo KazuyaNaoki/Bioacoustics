@@ -1,4 +1,5 @@
 ##### Manejo de archivos de sonidos (*.wav) ####
+## Debe modificar para tratar varios wav files ##
 
 rm(list=ls()); graphics.off()
 
